@@ -1,0 +1,37 @@
+_repo: Lightning-Rod-Conference-Report-of-the-delegates-from-the-following-societies-viz-Meteorlogic__58367
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Clark, Latimer
+    gutenberg_agent_id: '49910'
+    url: http://www.gutenberg.org/2009/agents/49910
+  - agent_name: Brooke, C.
+    gutenberg_agent_id: '49908'
+    url: http://www.gutenberg.org/2009/agents/49908
+  - agent_name: Lewis, Prof.
+    gutenberg_agent_id: '49909'
+    url: http://www.gutenberg.org/2009/agents/49909
+  - agent_name: Adams, W. G.
+    gutenberg_agent_id: '49911'
+    url: http://www.gutenberg.org/2009/agents/49911
+  editor:
+    agent_name: Symons, G. J.
+    gutenberg_agent_id: '49912'
+    url: http://www.gutenberg.org/2009/agents/49912
+description: ''
+gutenberg_issued: '2018-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lightning Rod Conference
+
+  Report of the delegates from the following societies, viz:
+
+  Meteorlogical Society, and others.'
+url: http://www.gutenberg.org/ebooks/58367
